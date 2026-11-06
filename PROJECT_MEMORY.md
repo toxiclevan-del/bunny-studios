@@ -18,7 +18,8 @@
 
 Zadání: přidat počítadlo úplně dolů na hlavní stránku, poznat obsah repozitáře
 a uchovávat výsledky, ověření, schválení a chyby pro další úkoly.
-Uživatelka schválila zahájení po shrnutí zadání. Výsledek ještě nepotvrdila.
+Uživatelka schválila zahájení po shrnutí zadání. Následně 2026-11-06
+potvrdila přítomnost počítadla na webu a výslovně povolila zapsat dobrý výsledek.
 
 Změny:
 - index.html a cs/index.html: společný Hits.sh SVG čítač v patičce pod odkazy,
@@ -41,7 +42,9 @@ Počítadlo:
 Stav: implementováno. Prošly kontroly obou patiček, společného klíče,
 alt textů, no-referrer, lokálních odkazů úvodních stránek a git diff --check.
 Nasazení hlavní změny ověřeno na veřejné české stránce v prohlížeči;\nčítač zobrazil hodnotu. Stará cache CSS při první kontrole nezobrazila nové\nrozložení; doplněna verze URL stylesheetu na obou úvodech pro obnovu cache.\nMobilní zobrazení nebylo vizuálně ověřeno.
-Potvrzení výsledku uživatelkou: ČEKÁ.
+Potvrzení výsledku uživatelkou: POTVRZENO 2026-11-06 — dobrý výsledek.
+Zpětná vazba: „je to tam“ a „mužeš si zapsat dobrý výsledek“.
+Pokyn pro tento navazující úkol: zapsat pouze potvrzení do paměti, nic jiného nedělat.
 
 ## Feedback a neúspěšné postupy
 
