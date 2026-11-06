@@ -40,7 +40,7 @@ Počítadlo:
 
 Stav: implementováno. Prošly kontroly obou patiček, společného klíče,
 alt textů, no-referrer, lokálních odkazů úvodních stránek a git diff --check.
-Vizuální kontrola v prohlížeči a nasazení zatím neověřeny.
+Nasazení hlavní změny ověřeno na veřejné české stránce v prohlížeči;\nčítač zobrazil hodnotu. Stará cache CSS při první kontrole nezobrazila nové\nrozložení; doplněna verze URL stylesheetu na obou úvodech pro obnovu cache.\nMobilní zobrazení nebylo vizuálně ověřeno.
 Potvrzení výsledku uživatelkou: ČEKÁ.
 
 ## Feedback a neúspěšné postupy
